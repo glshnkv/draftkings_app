@@ -16,10 +16,7 @@ dependencies:
 
   auto_route: ^7.8.4
   flutter_svg: ^2.0.9
-  flutter_bloc: ^8.1.3
-  get_it: ^7.6.4
   flutter_launcher_icons: ^0.13.1
-  shared_preferences: ^2.2.2
   loading_animation_widget: ^1.2.0+4
   flutter_countdown_timer: ^4.1.0
 
@@ -53,6 +50,7 @@ flutter:
     - assets/images/quiz/quiz-2/
     - assets/images/quiz/quiz-3/
     - assets/images/puzzle/
+    - assets/images/puzzle/basketball/
     - assets/images/puzzle/basketball/1/
     - assets/images/puzzle/basketball/2/
     - assets/images/puzzle/basketball/3/
